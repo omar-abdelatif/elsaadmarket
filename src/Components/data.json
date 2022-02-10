@@ -1,0 +1,81 @@
+{
+    "BoxData": [
+        {
+        "id": "1",
+        "title": "طلبات الحالية",
+        "count": "100",
+        "icon": "fad fa-receipt",
+        "iconBgColor": "GradientDark",
+        "unit": "طلب"
+    },
+    {
+        "id": "2",
+        "title": "طلبات اليوم",
+        "count": "50",
+        "icon": "fad fa-file-invoice-dollar",
+        "iconBgColor": "GradientLight",
+        "unit": "طلب"
+    },
+    {
+        "id": "3",
+        "title": "الاعضاء الجدد",
+        "count": "500",
+        "icon": "fad fa-users",
+        "iconBgColor": "GradientCyan",
+        "unit": "عضو"
+    },
+    {
+        "id": "4",
+        "title": "إجمالي الأعضاء",
+        "count": "1000",
+        "icon": "fad fa-user-plus",
+        "iconBgColor": "GradientPink",
+        "unit": "عضو"
+    }
+],
+    "Cients_Details": [
+        {
+            "id": "1",
+            "name": "عمر عبد اللطيف",
+            "phone": "0123456789",
+            "address": "6أكتوبر",
+            "Orders": "bread / coffee / cola / ice-cream"
+        },
+        {
+            "id": "2",
+            "name": "كريم عادل",
+            "phone": "0123456789",
+            "address": "الهرم",
+            "Orders": "bread / coffee / cola / ice-cream"
+        },
+        {
+            "id": "3",
+            "name": "ابراهيم عبد اللطيف",
+            "phone": "0123456789",
+            "address": "6أكتوبر",
+            "Orders": "bread / coffee / cola / ice-cream"
+        },
+        {
+            "id": "4",
+            "name": "باسل احمد عبد السلام",
+            "phone": "0123456789",
+            "address": "امبابة",
+            "Orders": "bread / coffee / cola / ice-cream"
+        },
+        {
+            "id": "5",
+            "name": "محمد صلاح",
+            "phone": "0123456789",
+            "address": "فيصل",
+            "Orders": "bread / coffee / cola / ice-cream"
+        },
+        {
+            "id": "6",
+            "name": "حمزة",
+            "phone": "0123456789",
+            "address": "وربنا ما اعرف ",
+            "Orders": "bread / coffee / cola / ice-cream"
+        }
+    ]
+}
+

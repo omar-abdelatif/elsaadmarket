@@ -1,0 +1,672 @@
+{
+    "movies": [
+        {
+            "name": "The Shawshank Redemption",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=The%20Shawshank%20Redemption",
+            "IMAX": "06:00 PM",
+            "rating": "9 . 2",
+            "character": [
+                {
+                    "name": "Andy Dufresne",
+                    "actor": "Tim Robbins"
+                },
+                {
+                    "name": "Ellis Boyd 'Red' Redding",
+                    "actor": "Morgan Freeman"
+                },
+                {
+                    "name": "Warden Norton",
+                    "actor": "Bob Gunton"
+                },
+                {
+                    "name": "Heywood",
+                    "actor": "William Sadler"
+                },
+                {
+                    "name": "Captain Hadley",
+                    "actor": "Clancy Brown"
+                },
+                {
+                    "name": "Tommy",
+                    "actor": "Gil Bellows"
+                },
+                {
+                    "name": "Bogs Diamond",
+                    "actor": "Mark Rolston"
+                },
+                {
+                    "name": "Brooks Hatlen",
+                    "actor": "James Whitmore"
+                },
+                {
+                    "name": "1946 D.A.",
+                    "actor": "Jeffrey DeMunn"
+                },
+                {
+                    "name": "Skeet",
+                    "actor": "Larry Brandenburg"
+                },
+                {
+                    "name": "Jigger",
+                    "actor": "Neil Giuntoli"
+                },
+                {
+                    "name": "Floyd",
+                    "actor": "Brian Libby"
+                },
+                {
+                    "name": "Snooze",
+                    "actor": "David Proval"
+                },
+                {
+                    "name": "Ernie",
+                    "actor": "Joseph Ragno"
+                },
+                {
+                    "name": "Guard Mert",
+                    "actor": "Jude Ciccolella"
+                }
+            ]
+        },
+        {
+            "name": "Schindler's List",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=Schindler%27s%20List",
+            "IMAX": "06:15 PM",
+            "rating": "8 . 9",
+            "character": [
+                {
+                    "name": "Oskar Schindler",
+                    "actor": "Liam Neeson"
+                },
+                {
+                    "name": "Itzhak Stern",
+                    "actor": "Ben Kingsley"
+                },
+                {
+                    "name": "Amon Goeth",
+                    "actor": "Ralph Fiennes"
+                },
+                {
+                    "name": "Emilie Schindler",
+                    "actor": "Caroline Goodall"
+                },
+                {
+                    "name": "Poldek Pfefferberg (as Jonathan Sagalle)",
+                    "actor": "Jonathan Sagall"
+                },
+                {
+                    "name": "Helen Hirsch",
+                    "actor": "Embeth Davidtz"
+                },
+                {
+                    "name": "Wiktoria Klonowska (as Malgoscha Gebel)",
+                    "actor": "Malgorzata Gebel"
+                },
+                {
+                    "name": "Wilek Chilowicz (as Shmulik Levy)",
+                    "actor": "Shmuel Levy"
+                },
+                {
+                    "name": "Marcel Goldberg",
+                    "actor": "Mark Ivanir"
+                },
+                {
+                    "name": "Ingrid (as Beatrice Macola)",
+                    "actor": "Béatrice Macola"
+                },
+                {
+                    "name": "Julian Scherner",
+                    "actor": "Andrzej Seweryn"
+                },
+                {
+                    "name": "Rolf Czurda (as Friedrich Von Thun)",
+                    "actor": "Friedrich von Thun"
+                },
+                {
+                    "name": "Herman Toffel",
+                    "actor": "Krzysztof Luft"
+                },
+                {
+                    "name": "Leo John",
+                    "actor": "Harry Nehring"
+                },
+                {
+                    "name": "Albert Hujar",
+                    "actor": "Norbert Weisser"
+                }
+            ]
+        },
+        {
+            "name": "The Godfather",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=The%20Godfather",
+            "IMAX": "06:30 PM",
+            "rating": "9 . 2",
+            "character": [
+                {
+                    "name": "Don Vito Corleone",
+                    "actor": "Marlon Brando"
+                },
+                {
+                    "name": "Michael Corleone",
+                    "actor": "Al Pacino"
+                },
+                {
+                    "name": "Sonny Corleone",
+                    "actor": "James Caan"
+                },
+                {
+                    "name": "Clemenza (as Richard Castellano)",
+                    "actor": "Richard S. Castellano"
+                },
+                {
+                    "name": "Tom Hagen",
+                    "actor": "Robert Duvall"
+                },
+                {
+                    "name": "Capt. McCluskey",
+                    "actor": "Sterling Hayden"
+                },
+                {
+                    "name": "Jack Woltz",
+                    "actor": "John Marley"
+                },
+                {
+                    "name": "Barzini",
+                    "actor": "Richard Conte"
+                },
+                {
+                    "name": "Sollozzo",
+                    "actor": "Al Lettieri"
+                },
+                {
+                    "name": "Kay Adams",
+                    "actor": "Diane Keaton"
+                },
+                {
+                    "name": "Tessio",
+                    "actor": "Abe Vigoda"
+                },
+                {
+                    "name": "Connie",
+                    "actor": "Talia Shire"
+                },
+                {
+                    "name": "Carlo",
+                    "actor": "Gianni Russo"
+                },
+                {
+                    "name": "Fredo",
+                    "actor": "John Cazale"
+                },
+                {
+                    "name": "Cuneo",
+                    "actor": "Rudy Bond"
+                }
+            ]
+        },
+        {
+            "name": "The Godfather: Part II",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=The%20Godfather:%20Part%20II",
+            "IMAX": "06:45 PM",
+            "rating": "9 . 0",
+            "character": [
+                {
+                    "name": "Michael",
+                    "actor": "Al Pacino"
+                },
+                {
+                    "name": "Tom Hagen",
+                    "actor": "Robert Duvall"
+                },
+                {
+                    "name": "Kay",
+                    "actor": "Diane Keaton"
+                },
+                {
+                    "name": "Vito Corleone (as Robert DeNiro)",
+                    "actor": "Robert De Niro"
+                },
+                {
+                    "name": "Fredo Corleone",
+                    "actor": "John Cazale"
+                },
+                {
+                    "name": "Connie Corleone",
+                    "actor": "Talia Shire"
+                },
+                {
+                    "name": "Hyman Roth",
+                    "actor": "Lee Strasberg"
+                },
+                {
+                    "name": "Frankie Pentangeli",
+                    "actor": "Michael V. Gazzo"
+                },
+                {
+                    "name": "Senator Pat Geary",
+                    "actor": "G.D. Spradlin"
+                },
+                {
+                    "name": "Al Neri",
+                    "actor": "Richard Bright"
+                },
+                {
+                    "name": "Fanucci (as Gaston Moschin)",
+                    "actor": "Gastone Moschin"
+                },
+                {
+                    "name": "Rocco Lampone",
+                    "actor": "Tom Rosqui"
+                },
+                {
+                    "name": "Young Clemenza (as B. Kirby Jr.)",
+                    "actor": "Bruno Kirby"
+                },
+                {
+                    "name": "Genco",
+                    "actor": "Frank Sivero"
+                },
+                {
+                    "name": "Young Mama Corleone (as Francesca de Sapio)",
+                    "actor": "Francesca De Sapio"
+                }
+            ]
+        },
+        {
+            "name": "The Dark Knight",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=The%20Dark%20Knight",
+            "IMAX": "07:00 PM",
+            "rating": "8 . 9",
+            "character": [
+                {
+                    "name": "Bruce Wayne",
+                    "actor": "Christian Bale"
+                },
+                {
+                    "name": "Joker",
+                    "actor": "Heath Ledger"
+                },
+                {
+                    "name": "Harvey Dent",
+                    "actor": "Aaron Eckhart"
+                },
+                {
+                    "name": "Alfred",
+                    "actor": "Michael Caine"
+                },
+                {
+                    "name": "Rachel",
+                    "actor": "Maggie Gyllenhaal"
+                },
+                {
+                    "name": "Gordon",
+                    "actor": "Gary Oldman"
+                },
+                {
+                    "name": "Lucius Fox",
+                    "actor": "Morgan Freeman"
+                },
+                {
+                    "name": "Ramirez",
+                    "actor": "Monique Gabriela Curnen"
+                },
+                {
+                    "name": "Wuertz",
+                    "actor": "Ron Dean"
+                },
+                {
+                    "name": "Scarecrow",
+                    "actor": "Cillian Murphy"
+                },
+                {
+                    "name": "Lau",
+                    "actor": "Chin Han"
+                },
+                {
+                    "name": "Mayor",
+                    "actor": "Nestor Carbonell"
+                },
+                {
+                    "name": "Maroni",
+                    "actor": "Eric Roberts"
+                },
+                {
+                    "name": "Chechen",
+                    "actor": "Ritchie Coster"
+                },
+                {
+                    "name": "Mike Engel",
+                    "actor": "Anthony Michael Hall"
+                }
+            ]
+        },
+        {
+            "name": "Pulp Fiction",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=Pulp%20Fiction",
+            "IMAX": "07:15 PM",
+            "rating": "8 . 9",
+            "character": [
+                {
+                    "name": "Pumpkin / Ringo",
+                    "actor": "Tim Roth"
+                },
+                {
+                    "name": "Honey Bunny / Yolanda",
+                    "actor": "Amanda Plummer"
+                },
+                {
+                    "name": "Waitress",
+                    "actor": "Laura Lovelace"
+                },
+                {
+                    "name": "Vincent Vega",
+                    "actor": "John Travolta"
+                },
+                {
+                    "name": "Jules Winnfield",
+                    "actor": "Samuel L. Jackson"
+                },
+                {
+                    "name": "Marvin",
+                    "actor": "Phil LaMarr"
+                },
+                {
+                    "name": "Brett",
+                    "actor": "Frank Whaley"
+                },
+                {
+                    "name": "Roger",
+                    "actor": "Burr Steers"
+                },
+                {
+                    "name": "Butch Coolidge",
+                    "actor": "Bruce Willis"
+                },
+                {
+                    "name": "Marsellus Wallace",
+                    "actor": "Ving Rhames"
+                },
+                {
+                    "name": "Paul / English Bob",
+                    "actor": "Paul Calderon"
+                },
+                {
+                    "name": "Trudi",
+                    "actor": "Bronagh Gallagher"
+                },
+                {
+                    "name": "Jody",
+                    "actor": "Rosanna Arquette"
+                },
+                {
+                    "name": "Lance",
+                    "actor": "Eric Stoltz"
+                },
+                {
+                    "name": "Mia Wallace",
+                    "actor": "Uma Thurman"
+                }
+            ]
+        },
+        {
+            "name": "The Good, the Bad and the Ugly",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=The%20Good,%20the%20Bad%20and%20the%20Ugly",
+            "IMAX": "07:30 PM",
+            "rating": "8 . 9",
+            "character": [
+                {
+                    "name": "Tuco",
+                    "actor": "Eli Wallach"
+                },
+                {
+                    "name": "Blondie",
+                    "actor": "Clint Eastwood"
+                },
+                {
+                    "name": "Sentenza / Angel Eyes",
+                    "actor": "Lee Van Cleef"
+                },
+                {
+                    "name": "Alcoholic Union Captain (as Aldo Giuffre')",
+                    "actor": "Aldo Giuffrè"
+                },
+                {
+                    "name": "Father Pablo Ramirez",
+                    "actor": "Luigi Pistilli"
+                },
+                {
+                    "name": "Maria",
+                    "actor": "Rada Rassimov"
+                },
+                {
+                    "name": "Storekeeper",
+                    "actor": "Enzo Petito"
+                },
+                {
+                    "name": "Mexican Peon",
+                    "actor": "Claudio Scarchilli"
+                },
+                {
+                    "name": "Sheriff (as John Bartho)",
+                    "actor": "John Bartha"
+                },
+                {
+                    "name": "Baker",
+                    "actor": "Livio Lorenzon"
+                },
+                {
+                    "name": "Jackson / Bill Carson",
+                    "actor": "Antonio Casale"
+                },
+                {
+                    "name": "Mexican Peon",
+                    "actor": "Sandro Scarchilli"
+                },
+                {
+                    "name": "Member of Angel Eyes' Gang",
+                    "actor": "Benito Stefanelli"
+                },
+                {
+                    "name": "Monk",
+                    "actor": "Angelo Novi"
+                },
+                {
+                    "name": "Stevens",
+                    "actor": "Antonio Casas"
+                }
+            ]
+        },
+        {
+            "name": "12 Angry Men",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=12%20Angry%20Men",
+            "IMAX": "07:45 PM",
+            "rating": "8 . 9",
+            "character": [
+                {
+                    "name": "Juror #1",
+                    "actor": "Martin Balsam"
+                },
+                {
+                    "name": "Juror #2",
+                    "actor": "John Fiedler"
+                },
+                {
+                    "name": "Juror #3",
+                    "actor": "Lee J. Cobb"
+                },
+                {
+                    "name": "Juror #4",
+                    "actor": "E.G. Marshall"
+                },
+                {
+                    "name": "Juror #5",
+                    "actor": "Jack Klugman"
+                },
+                {
+                    "name": "Juror #6",
+                    "actor": "Edward Binns"
+                },
+                {
+                    "name": "Juror #7",
+                    "actor": "Jack Warden"
+                },
+                {
+                    "name": "Juror #8",
+                    "actor": "Henry Fonda"
+                },
+                {
+                    "name": "Juror #9",
+                    "actor": "Joseph Sweeney"
+                },
+                {
+                    "name": "Juror #10",
+                    "actor": "Ed Begley"
+                },
+                {
+                    "name": "Juror #11",
+                    "actor": "George Voskovec"
+                },
+                {
+                    "name": "Juror #12",
+                    "actor": "Robert Webber"
+                }
+            ]
+        },
+        {
+            "name": "The Lord of the Rings: The Return of the King",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=The%20Lord%20of%20the%20Rings:%20The%20Return%20of%20the%20King",
+            "IMAX": "08:00 PM",
+            "rating": "8 . 9",
+            "character": [
+                {
+                    "name": "Everard Proudfoot",
+                    "actor": "Noel Appleby"
+                },
+                {
+                    "name": "Elanor Gamgee",
+                    "actor": "Alexandra Astin"
+                },
+                {
+                    "name": "Sam",
+                    "actor": "Sean Astin"
+                },
+                {
+                    "name": "Gondorian Soldier 3",
+                    "actor": "David Aston"
+                },
+                {
+                    "name": "Madril",
+                    "actor": "John Bach"
+                },
+                {
+                    "name": "Boromir",
+                    "actor": "Sean Bean"
+                },
+                {
+                    "name": "Galadriel",
+                    "actor": "Cate Blanchett"
+                },
+                {
+                    "name": "Legolas",
+                    "actor": "Orlando Bloom"
+                },
+                {
+                    "name": "Pippin",
+                    "actor": "Billy Boyd"
+                },
+                {
+                    "name": "Eldarion",
+                    "actor": "Sadwyn Brophy"
+                },
+                {
+                    "name": "Damrod",
+                    "actor": "Alistair Browning"
+                },
+                {
+                    "name": "Celeborn",
+                    "actor": "Marton Csokas"
+                },
+                {
+                    "name": "Gondorian Soldier 1",
+                    "actor": "Richard Edge"
+                },
+                {
+                    "name": "Uruk 2",
+                    "actor": "Jason Fitch"
+                },
+                {
+                    "name": "Theoden",
+                    "actor": "Bernard Hill"
+                }
+            ]
+        },
+        {
+            "name": "Fight Club",
+            "url": "https://parsehub.com/sandbox/moviedetails?movie=Fight%20Club",
+            "IMAX": "08:15 PM",
+            "rating": "8 . 8",
+            "character": [
+                {
+                    "name": "The Narrator",
+                    "actor": "Edward Norton"
+                },
+                {
+                    "name": "Tyler Durden",
+                    "actor": "Brad Pitt"
+                },
+                {
+                    "name": "Marla Singer",
+                    "actor": "Helena Bonham Carter"
+                },
+                {
+                    "name": "Robert 'Bob' Paulsen (as Meat Loaf Aday)",
+                    "actor": "Meat Loaf"
+                },
+                {
+                    "name": "Richard Chesler",
+                    "actor": "Zach Grenier"
+                },
+                {
+                    "name": "Intern",
+                    "actor": "Richmond Arquette"
+                },
+                {
+                    "name": "Thomas",
+                    "actor": "David Andrews"
+                },
+                {
+                    "name": "Group Leader",
+                    "actor": "George Maguire"
+                },
+                {
+                    "name": "Weeping Woman",
+                    "actor": "Eugenie Bondurant"
+                },
+                {
+                    "name": "Group Leader",
+                    "actor": "Christina Cabot"
+                },
+                {
+                    "name": "Speaker",
+                    "actor": "Sydney 'Big Dawg' Colston"
+                },
+                {
+                    "name": "Chloe",
+                    "actor": "Rachel Singer"
+                },
+                {
+                    "name": "Airline Attendant",
+                    "actor": "Christie Cronenweth"
+                },
+                {
+                    "name": "Inspector Bird (as Tim de Zarn)",
+                    "actor": "Tim De Zarn"
+                },
+                {
+                    "name": "Inspector Dent",
+                    "actor": "Ezra Buzzington"
+                }
+            ]
+        }
+    ]
+}
